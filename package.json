@@ -1,0 +1,22 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de platzy de asincronimos con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyCampo97/curso_asincronismoJS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Anthony Campo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyCampo97/curso_asincronismoJS/issues"
+  },
+  "homepage": "https://github.com/AnthonyCampo97/curso_asincronismoJS#readme"
+}
