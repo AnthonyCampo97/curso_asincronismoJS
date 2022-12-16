@@ -2,9 +2,9 @@
   "name": "curso-asincronismo",
   "version": "1.0.0",
   "description": "Curso de platzy de asincronimos con JS",
-  "main": "index.js",
+  "main": "codex.js",
   "scripts": {
-    "callback": "node src/callback/challenge.js"
+    "deploy": "gh-pages -d src2"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
